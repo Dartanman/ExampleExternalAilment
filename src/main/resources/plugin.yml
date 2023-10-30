@@ -1,0 +1,5 @@
+name: ExampleExternalAilment
+author: Dartanman
+version: 1.0.0
+main: me.dartanman.exampleexternalailment.ExampleExternalAilmentPlugin
+api-version: 1.19
